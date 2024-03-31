@@ -1,7 +1,7 @@
-pyrogram>=2.0.30 
+pyrogram
  tgcrypto 
- pymongo[srv]==3.12.3 
- motor==2.5.1 
+ pymongo
+ motor
  marshmallow==3.14.1 
  umongo==3.0.1 
  requests 
@@ -19,7 +19,7 @@ pyrogram>=2.0.30
   
  #---others----# 
  opencv-python-headless==4.7.0.68 
- python-dotenv==0.21.1 
+ python-dotenv
  speedtest==0.0.1 
  humanize==4.6.0 
  Pillow==9.4.0 
@@ -30,7 +30,7 @@ pyrogram>=2.0.30
  wget 
  pytz
  aiofiles
- dnspython==2.3.0
+ dnspython
  ### googletrans==4.0.0-rc1 ###
 python-decouple
 ffmpeg-python>=0.2.0
